@@ -1,0 +1,2 @@
+1|Basic T-Shirt|2|39.98
+2|Slim Fit Jeans|1|49.90
