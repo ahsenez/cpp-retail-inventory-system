@@ -41,3 +41,4 @@ This project is good for GitHub because it shows:
 - real business logic
 - inventory and sales workflow
 - file persistence
+- 
